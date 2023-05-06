@@ -3,7 +3,7 @@ uvicorn
 
 
 #for template  #new
-jinja2 
+jinja2
 
 #for static files
 aiofiles
@@ -15,10 +15,10 @@ psycopg2-binary
 #for load env variables from .env file
 python-dotenv
 
-#for email validation     
-pydantic[email] 
+#for email validation
+pydantic[email]
 
-#hashing           
+#hashing
 passlib[bcrypt]
 
 # for testing
