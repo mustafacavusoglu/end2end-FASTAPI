@@ -1,1 +1,0 @@
-/Applications/Postgres.app/Contents/Versions/15/bin/postgres "-D" "/Users/mustafacavusoglu/Desktop/workspace/end2end-fastapi/db" "-p" "5432"
