@@ -4,3 +4,6 @@ uvicorn
 
 #for template  #new
 jinja2 
+
+#for static files
+aiofiles
